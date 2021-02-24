@@ -5,9 +5,9 @@ Created on Wed Feb 24 08:51:55 2021
 @author: PedroLuis
 """
 # Ejercicio 1 ***********************
-vp1 = float(input('Digite el valor de la persona 1: '))
-vp2 = float(input('Digite el valor de la persona 2: '))
-vp3 = float(input('Digite el valor de la persona 3: '))
+vp1 = float(input('Digite el valor de la persona 1: $'))
+vp2 = float(input('Digite el valor de la persona 2: $'))
+vp3 = float(input('Digite el valor de la persona 3: $'))
 
 total = vp1 + vp2 + vp3
 pp1 = (vp1/total) * 100
